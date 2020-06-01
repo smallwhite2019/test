@@ -2,6 +2,7 @@
 咋啥也没有呢
 要在当前分支下拉取，git pull origin master ,再会获取完整的主分支程序
 再添加
-改完后，git add . ----> git commit -m "jjj"---->git checkout master ----> git merge lss -m "sl"---->git push origin master
+改完后，git add . ----> git commit -m "jjj"---->git push origin lss(这句话说明推上去了啊，这样就有两个分支，master和lss)
+----->git checkout master ----> git merge lss -m "sl"---->git push origin master(这样就不会每次都弹出输入账号和密码问题)
 
 再试，再是，接着再是push
