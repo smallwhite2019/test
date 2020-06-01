@@ -6,4 +6,4 @@
 ----->git checkout master ----> git merge lss -m "sl"---->git push origin master(这样就不会每次都弹出输入账号和密码问题)
 
 再试，再是，接着再是push
-origin是啥
+origin是啥   origin是我们的远程存储库的名称、
