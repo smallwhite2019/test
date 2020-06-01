@@ -4,4 +4,4 @@
 再添加
 改完后，git add . ----> git commit -m "jjj"---->git checkout master ----> git merge lss -m "sl"---->git push origin master
 
-再试，再是
+再试，再是，接着再是push
