@@ -2,6 +2,6 @@
 咋啥也没有呢
 要在当前分支下拉取，git pull origin master ,再会获取完整的主分支程序
 再添加
-改完后，git add . ----> git commit -m "jjj"---->git checkout master ----> git add . ----->git commit -m "oo"---->git push origin master
+改完后，git add . ----> git commit -m "jjj"---->git checkout master ----> git merge lss -m "sl"---->git push origin master
 
 再试
